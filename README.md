@@ -19,12 +19,12 @@ Este es mi proceso para el reto de **Blogr Landing Page** de Frontend Mentor. El
 
 ### Mobile
 <p align="center">
-  <video src="./screenshots/blogr-mobile.mp4" autoplay loop muted playsinline width="300"></video>
+  <video src="./screenshots/blogr-mobile-final.mp4" autoplay loop muted playsinline width="300"></video>
 </p>
 
 ### Desktop
 <p align="center">
-  <video src="./screenshots/blogr-desktop.mp4" autoplay loop muted playsinline width="100%"></video>
+  <video src="./screenshots/blogr-desktop-final.mp4" autoplay loop muted playsinline width="100%"></video>
 </p>
 
 

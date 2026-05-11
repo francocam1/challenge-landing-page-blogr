@@ -4,10 +4,6 @@
 
 # 🚀 Frontend Mentor Challenge - Blogr Landing Page 
 
-*Version Mobile: completo.
-
-*Version Desktop: en desarollo
-
 Este es mi proceso para el reto de **Blogr Landing Page** de Frontend Mentor. El objetivo principal fue lograr una interfaz moderna, limpia y, sobre todo, **funcional** 
 
 

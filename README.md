@@ -1,3 +1,7 @@
+
+
+
+
 # 🚀 Frontend Mentor Challenge - Blogr Landing Page 
 
 *Version Mobile: completo.
@@ -6,9 +10,9 @@
 
 Este es mi proceso para el reto de **Blogr Landing Page** de Frontend Mentor. El objetivo principal fue lograr una interfaz moderna, limpia y, sobre todo, **funcional** 
 
----
 
 ## 📸 Preview
+
 
 
  Demo: [ver sitio](https://francocam1.github.io/challenge-landing-page-blogr/)
@@ -22,8 +26,23 @@ Este es mi proceso para el reto de **Blogr Landing Page** de Frontend Mentor. El
 <p align="center">
   <video src="screenshots/blogr-desktop.mp4" autoplay loop muted playsinline width="100%"></video>
 </p>
+=======
+### Demo: [ver sitio](https://francocam1.github.io/challenge-landing-page-blogr/)
 
----
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/ca80741c-c26f-418e-85a7-d0187eb49245" autoplay="true" loop="true" muted="true" playsinline="true" width="300" style="pointer-events: none;">
+  </video>
+</p>
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/da105165-15b6-424c-b952-877b6c789d8f" autoplay="true" loop="true" muted="true" playsinline="true" width="100%" style="pointer-events: none;">
+  </video>
+</p>
+
+
+
+
+
 
 
 ## 🛠️ Construido con

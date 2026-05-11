@@ -16,16 +16,14 @@ Este es mi proceso para el reto de **Blogr Landing Page** de Frontend Mentor. El
 
 ### Demo: [ver sitio](https://francocam1.github.io/challenge-landing-page-blogr/)
 
-#### Mobile
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ca80741c-c26f-418e-85a7-d0187eb49245" autoplay loop muted playsinline width="300px">
-  
+  <video src="https://github.com/user-attachments/assets/ca80741c-c26f-418e-85a7-d0187eb49245" autoplay="true" loop="true" muted="true" playsinline="true" width="300" style="pointer-events: none;">
+  </video>
 </p>
 
-#### Desktop
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/da105165-15b6-424c-b952-877b6c789d8f" autoplay loop muted playsinline width="100%">
-  
+  <video src="https://github.com/user-attachments/assets/da105165-15b6-424c-b952-877b6c789d8f" autoplay="true" loop="true" muted="true" playsinline="true" width="100%" style="pointer-events: none;">
+  </video>
 </p>
 
 

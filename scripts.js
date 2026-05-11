@@ -9,7 +9,7 @@ const btnCompany = document.querySelector('.btn-company');
 const listCompany = document.querySelector('.list-company');
 const btnConnect = document.querySelector('.btn-connect');
 const listConnect = document.querySelector('.list-connect');
-
+const buttons = document.querySelectorAll('.header__nav-btn-drop');
 
 
 
@@ -32,6 +32,11 @@ btn.addEventListener('click', () => {
 
 
     
+
+
+
+
+    
 const navLinks = document.querySelectorAll('.header__nav a');
 
 navLinks.forEach(link => {
@@ -50,12 +55,12 @@ navLinks.forEach(link => {
         menuDrop.classList.remove('header__nav-list-drop--active');
         
     });
+
+
+
+
+    
 });
-
-
-
-
-
 
 
 
@@ -67,6 +72,7 @@ navLinks.forEach(link => {
 
 
 btnDrop.addEventListener( 'click', () => {
+    if (window.innerWidth < 1024) {
     btnDrop.classList.toggle('header__nav-btn-drop--active');
     menuDrop.classList.toggle('header__nav-list-drop--active');
 
@@ -76,12 +82,15 @@ btnDrop.addEventListener( 'click', () => {
     btnConnect.classList.remove('btn-connect--active');
     listConnect.classList.remove('list-connect--active');
 
+    }
+
 });
 
 // Boton drop Company
 
 
 btnCompany.addEventListener( 'click', () => {
+    if (window.innerWidth < 1024) {
     btnCompany.classList.toggle('btn-company--active');
     listCompany.classList.toggle('list-company--active');
 
@@ -90,7 +99,7 @@ btnCompany.addEventListener( 'click', () => {
 
     btnConnect.classList.remove('btn-connect--active');
     listConnect.classList.remove('list-connect--active');
-
+    }
 
 });
 
@@ -99,6 +108,9 @@ btnCompany.addEventListener( 'click', () => {
 
 
 btnConnect.addEventListener( 'click', ()=> {
+    
+
+    if (window.innerWidth < 1024) {
     btnConnect.classList.toggle('btn-connect--active');
     listConnect.classList.toggle('list-connect--active');
 
@@ -108,6 +120,10 @@ btnConnect.addEventListener( 'click', ()=> {
 
     btnCompany.classList.remove('btn-company--active');
     listCompany.classList.remove('list-company--active');
+
+    }
 }
 
 );
+
+
